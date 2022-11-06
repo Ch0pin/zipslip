@@ -1,4 +1,4 @@
-# zipslip://about
+## zipslip://about
 
 A handy python script to test for zip slip vulnerabilities 
 
@@ -11,7 +11,7 @@ A handy python script to test for zip slip vulnerabilities
    0088MM
    `9MMP'
 
-Usage: zipslip.py -f filename -e exploded_dir -n zip_name
+Usage: python3 zipslip.py -f filename -e exploded_dir -n zip_name
    
    ````
 
