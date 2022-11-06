@@ -1,4 +1,4 @@
-# zipbomp
+# zipslip://about
 
 A handy python script to test for zip slip vulnerabilities 
 
